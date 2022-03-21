@@ -1,7 +1,10 @@
 {
   "name": "@trinsic/okapi",
   "version": "1.0.0-preview.27",
-  "description": "",
+  "description": "> TODO: description",
+  "author": "Tomislav Markovski <tomislav@trinsic.id>",
+  "homepage": "https://github.com/trinsic-id/okapi#readme",
+  "license": "ISC",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "browser": {
@@ -42,5 +45,8 @@
     "require": [
       "esm"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/trinsic-id/okapi/issues"
   }
 }
